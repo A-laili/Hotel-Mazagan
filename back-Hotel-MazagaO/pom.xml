@@ -8,15 +8,15 @@
         <version>3.1.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-         <properties>
-  <sonar.organization>a-laili</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+     
     <artifactId>hotel-MazagaO</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>hotel-MazagaO</name>
     <description>hotel-MazagaO</description>
     <properties>
+    
+  <sonar.organization>a-laili</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <java.version>17</java.version>
     </properties>
     <dependencies>
