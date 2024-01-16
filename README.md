@@ -58,9 +58,13 @@ docker-compose build
 
 - Run the Docker containers :
 docker-compose up
+![image](https://github.com/A-laili/Hotel-Mazagan/assets/147451080/4258bc4f-3ea3-4d4d-8a76-e10fbc70b472)
 
 - Connect to phpMyadmin server on port 8081 ( user:"root"-password:"root") and restart the backend from Docker Desktop
 ### Utiliser un deploiment local
+- cd Base de donnée: 
+  Créez une base de données "mazagan" où vous importez la bdd ci-dessus mazagan.sql
+(dans cette base de données vous trouvez les accés d'un utilisateur par défaut dont le login : user@user et mdp : user@user et un admin par défaut dont le login : admin@admin et mdp: admin@admin)
 - cd back-Hotel-MazagaO :
 cmd --> mvn clean install
     --> mvn spring-boot:run
@@ -69,9 +73,12 @@ cmd --> npm install
     --> npm run dev
 - Ouvrir l'url suivant : http://localhost:5173/
 
+## Auteurs
 
+- Asmaa Laili
+- Issam Lahrech
 
-
+Sous l'encadrement de Pr. Lachger
 
 
 
