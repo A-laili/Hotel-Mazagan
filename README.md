@@ -27,7 +27,6 @@ https://github.com/A-laili/Projet_Hotel/assets/147451080/0f0abc75-2f77-4e7c-a664
 
 
 
-
 https://github.com/A-laili/Projet_Hotel/assets/147451080/3a01a3db-d68c-4d41-b4ec-aee71268a105
 
 
